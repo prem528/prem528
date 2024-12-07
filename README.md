@@ -1,18 +1,14 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+[![MasterHead]( https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif)] 
 <h1 align="center">Hi 👋, I'm Prem</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=6c09b952m6632majgm0x05430v48nbhchymlrw5b4cdy84nb&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
 
 
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prem528&label=Profile%20views&color=0e75b6&style=flat" alt="prem528" /> </p>
 
 - 🌱 I’m currently learning **Next.js Framework**
-
-- 👯 I’m looking to collaborate on **Full Stack project**
-
+ 
 - 🤝 I’m looking for help with **MERN Stack**
 
 - 💬 Ask me about **react, Next.js, TypeScript**
