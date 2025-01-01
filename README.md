@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **prem05082002@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1DU5_ZJkzgfmzlhSPVw0l2SZnALz6n26Z/view?usp=drive_link
+- 📄 Know about my experiences https://drive.google.com/file/d/1QiUVIahA5ro-lQGOI5DMx-Q2yvALllnP/view?usp=sharing
 
 - ⚡ Fun fact **The first "computer bug" was a real bug! In 1947, engineers found a moth causing a malfunction in the Mark II computer, leading to the term "debugging."**
 
