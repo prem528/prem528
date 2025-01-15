@@ -9,15 +9,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prem528&label=Profile%20views&color=0e75b6&style=flat" alt="prem528" /> </p>
 
+-  Explore my projects on my Portfolio :  https://premmportfolio.netlify.app/
+
 - 🌱 I’m currently learning **Next.js Framework**
 
 - 🤝 I’m looking for help with **MERN Stack**
 
-- 💬 Ask me about **react, Next.js, TypeScript**
-
-- 📫 How to reach me **prem05082002@gmail.com**
-
-- 📄 Know about my experiences  https://drive.google.com/file/d/1xj6A9w4IoKh43-LR98QaZ1-phKTKA457/view?usp=sharing
+- 📄 Know about my experiences   https://drive.google.com/file/d/1NI87qohHWaLxQUIrQEZpLKZor9XiFn4l/view?usp=sharing
 
 - ⚡ Fun fact **The first "computer bug" was a real bug! In 1947, engineers found a moth causing a malfunction in the Mark II computer, leading to the term "debugging."**
 
@@ -36,4 +34,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prem528&show_icons=true&locale=en" alt="prem528" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prem528&" alt="prem528" /></p>
