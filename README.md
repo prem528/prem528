@@ -1,7 +1,7 @@
 
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif)]()
 
-<h1 align="center">Hi 👋, I'm Prem</h1>
+<h1 align="center">Hi, I'm Prem</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=6c09b952m6632majgm0x05430v48nbhchymlrw5b4cdy84nb&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
