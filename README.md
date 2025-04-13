@@ -11,7 +11,7 @@
 
 -  Explore my projects on my Portfolio :  https://premmportfolio.netlify.app/
 
-- 🌱 I’m currently learning **Next.js Framework**
+- 🌱 I’m currently learning **Next.js Framework and Golang**
 
 - 🤝 I’m looking for help with **MERN Stack**
 
