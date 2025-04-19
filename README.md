@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **MERN Stack**
 
-- 📄 Know about my experiences : https://shorturl.at/NGajp
+- 📄 Know about my experiences : [https://shorturl.at/NGajp](https://drive.google.com/file/d/1aiCSR1nUmWkvGU7Rz2TXRbrB03-j9sJY/view?usp=sharing)
 
 - ⚡ Building user-friendly applications and battling stubborn bugs - sometimes, they win!
   
