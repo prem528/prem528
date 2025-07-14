@@ -16,7 +16,7 @@
 
 - 🤝 I’m looking for help with **MERN Stack**
 
-- 📄 Know about my experiences : [https://shorturl.at/NGajp](https://drive.google.com/file/d/1aiCSR1nUmWkvGU7Rz2TXRbrB03-j9sJY/view?usp=sharing)
+- 📄 Know about my experiences : https://drive.google.com/file/d/18fjTs3_zj57RI_M4pV0KHYmoLShisLF_/view?usp=drivesdk
 
 - ⚡ Building user-friendly applications and battling stubborn bugs - sometimes, they win!
   
