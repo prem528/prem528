@@ -16,7 +16,7 @@
 
 - 🤝 I’m looking for help with **MERN Stack**
 
-- 📄 Know about my experiences : https://drive.google.com/file/d/18fjTs3_zj57RI_M4pV0KHYmoLShisLF_/view?usp=drivesdk
+- 📄 Know about my experiences : https://drive.google.com/file/d/1drwnKq8oVKfvVKQkdQq0i7wrEX0sm6Qy/view?usp=sharing
 
 - ⚡ Building user-friendly applications and battling stubborn bugs - sometimes, they win!
   
