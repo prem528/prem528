@@ -12,7 +12,7 @@
 - 🌐 Explore my projects on my **[Portfolio](https://premmportfolio.netlify.app/)**  
 - 🌱 I’m currently learning **Next.js Framework and Golang**  
 - 🤝 I’m looking for help with **MERN Stack**  
-- 📄 Know about my experiences : [View Resume](https://drive.google.com/file/d/1drwnKq8oVKfvVKQkdQq0i7wrEX0sm6Qy/view?usp=sharing)  
+- 📄 Know about my experiences : [View Resume](https://drive.google.com/file/d/1oiCYv4PlORHSCFpaNXaBpMn7B2KhdViy/view?usp=sharing)  
 - ⚡ Building user-friendly applications and battling stubborn bugs – sometimes, they win!  
 
 
