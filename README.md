@@ -15,7 +15,7 @@
 - 📄 Know about my experiences : [View Resume](https://drive.google.com/file/d/1drwnKq8oVKfvVKQkdQq0i7wrEX0sm6Qy/view?usp=sharing)  
 - ⚡ Building user-friendly applications and battling stubborn bugs – sometimes, they win!  
 
----
+
 
 ## 🌟 Current Projects  
 
@@ -24,7 +24,6 @@
 - 🛒 **E-Commerce Website** – Full-stack shopping platform with cart, wishlist, orders & payments.  
 - 👀 **Child Monitoring System** *(Company Project)* – Backend APIs & dashboards for real-time monitoring and data visualization.  
 
----
 
 ## 🛠️ Languages and Tools  
 
@@ -52,7 +51,7 @@
 <a href="https://graphql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg" alt="graphql" width="40" height="40"/> </a>
 </p>
 
----
+
 
 ## 📊 GitHub Stats  
 
@@ -65,7 +64,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prem528&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="top langs" />
 </p>
 
----
+
 
 ## 🌐 Connect with me  
 
