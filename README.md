@@ -22,7 +22,7 @@
 - 📹 **AI Short Video Generator** – AI-powered video creation with product scraping, auto-description, voiceover & video synthesis.  
 - 💬 **Real-Time Chat Application (MERN)** – Full authentication, WebSockets, and real-time messaging.  
 - 🛒 **E-Commerce Website** – Full-stack shopping platform with cart, wishlist, orders & payments.  
-- 👀 **Child Monitoring System** *(Company Project)* – Backend APIs & dashboards for real-time monitoring and data visualization.  
+- 👀 **Child Monitoring System** – Backend APIs & dashboards for real-time monitoring and data visualization.  
 
 
 ## 🛠️ Languages and Tools  
